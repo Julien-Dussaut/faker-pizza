@@ -4,8 +4,6 @@ This package will allow fakerphp to generate random name for pizzas, pizza categ
 
 ## Install
 
-*Please be sure to have [fakerphp](https://fakerphp.org/) installed before installing this package.*
-
 `composer require julien-dussaut/faker-pizza`
 
 ## Use
