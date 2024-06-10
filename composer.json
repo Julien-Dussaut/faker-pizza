@@ -1,0 +1,8 @@
+{
+  "name": "julien-dussaut/faker-pizza",
+  "description": "Add a provider for fakerphp for pizza (names, ingredients, categories)",
+  "require": {
+    "php": ">=8"
+  },
+  "license": "MIT"
+}
