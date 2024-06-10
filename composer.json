@@ -2,7 +2,8 @@
   "name": "julien-dussaut/faker-pizza",
   "description": "Add a provider for fakerphp for pizza (names, ingredients, categories)",
   "require": {
-    "php": ">=8.0"
+    "fakerphp/faker": "^1.12",
+    "php": "^5.3.3 || ^7.0 || ^8.0"
   },
   "autoload": {
     "psr-4": {

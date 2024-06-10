@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Faker\Provider;
+namespace JulienDussaut\FakerPizza;
 
 use Faker\Provider\Base as BaseProvider;
 
@@ -117,7 +117,7 @@ class PizzaProvider extends BaseProvider {
     return static::randomElement(static::$categories);
   }
 
-  public function ingredients() {
+  public function ingredient() {
     return static::randomElement(static::$ingredients);
   }
 }
