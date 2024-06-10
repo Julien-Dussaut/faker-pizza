@@ -9,6 +9,7 @@ This package will allow fakerphp to generate random name for pizzas, pizza categ
 ## Use
 
 ```php
+
 <?php
 
 use JulienDussaut\FakerPizza\PizzaProvider;
